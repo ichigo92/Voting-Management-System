@@ -12,7 +12,6 @@ import Initiate.Index;
  * @author Mystery 92
  */
 public class CandidateForm extends javax.swing.JFrame {
-
     /**
      * Creates new form Candidate
      */
